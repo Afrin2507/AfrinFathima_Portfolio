@@ -1,0 +1,318 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-pwr {
+  width: 100%;
+  height: 227.5rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fffbf5;
+}
+.desktop-2-pwr .vector-8r4 {
+  width: 82.5566rem;
+  height: 84.7791rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .vector-bje {
+  width: 82.5566rem;
+  height: 84.7791rem;
+  position: absolute;
+  left: 95.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .vector-4NL {
+  width: 143.3617rem;
+  height: 146.8027rem;
+  position: absolute;
+  left: 0;
+  top: 22.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .vector-AAU {
+  width: 127.8rem;
+  height: 131.3725rem;
+  position: absolute;
+  left: 0;
+  top: 30.7259rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .ellipse-1-TQU {
+  width: 102.1rem;
+  height: 102.1rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 2.7rem;
+  background: radial-gradient(50% 50% at 50% 50%, #c3acd0 0%, rgba(195, 172, 208, 0) 100%);
+  border-radius: 51.05rem;
+}
+.desktop-2-pwr .about-t1v {
+  width: 9.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 49.7rem;
+  top: 5.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-pwr .home-vUQ {
+  width: 9.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 5.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-pwr .skillset-mE8 {
+  width: 11.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 63.2rem;
+  top: 5.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-pwr .student-Drp {
+  width: 12.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 48.5rem;
+  top: 83.2rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-pwr .profile-5e8 {
+  width: 10.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 78.3rem;
+  top: 5.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-pwr .group-1-Mbe {
+  width: 80.4rem;
+  height: 60.5rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 26.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-2-pwr .group-1-Mbe .hello-dp4 {
+  margin: 0rem 5.4rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 11.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-pwr .group-1-Mbe .line-1-TYC {
+  margin: 0rem 37.099rem 8.2rem 28.5rem;
+  width: calc(100% - 65.5986rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-2-pwr .group-1-Mbe .im-afrin-fathima-Xnx {
+  margin-bottom: 4.9rem;
+  max-width: 80.4rem;
+  text-align: center;
+  font-size: 11.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-pwr .group-1-Mbe .auto-group-gkfe-zgY {
+  margin: 0rem 12.9rem 0rem 30.3rem;
+  width: calc(100% - 43.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-pwr .group-1-Mbe .auto-group-gkfe-zgY .designer-VtC {
+  margin-right: 3.7rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-pwr .group-1-Mbe .auto-group-gkfe-zgY .programmer-o8C {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #666666;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-pwr .star-stroke-long-uh2 {
+  width: 6.1rem;
+  height: 7.7545rem;
+  position: absolute;
+  left: 48.5rem;
+  top: 20.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .star-stroke-long-dsv {
+  width: 3.6rem;
+  height: 4.5764rem;
+  position: absolute;
+  left: 114rem;
+  top: 62rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .star-filled-long-Asr {
+  width: 3.0643rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 46.6rem;
+  top: 26.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .star-filled-long-JjA {
+  width: 2.3rem;
+  height: 2.9273rem;
+  position: absolute;
+  left: 115.8rem;
+  top: 66.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .vector-3Rr {
+  width: 82.5566rem;
+  height: 84.7791rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 91rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .vector-yqJ {
+  width: 82.5566rem;
+  height: 84.7791rem;
+  position: absolute;
+  left: 106.5rem;
+  top: 89.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .ellipse-3-KeG {
+  width: 174.7981rem;
+  height: 171.1321rem;
+  position: absolute;
+  left: 0;
+  top: 120.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .knowledge-pana-1-fTE {
+  width: 69.3rem;
+  height: 69.3rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 148.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .star-stroke-long-BgU {
+  width: 2.5959rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 136.4rem;
+  top: 199.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-pwr .about-me-7a8 {
+  width: 29.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 90rem;
+  top: 144.9rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #674188;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-pwr .im-a-student-currently-pursuing-btech-artificial-intelligence-and-data-science-in-crescent-university-pDe {
+  width: 54.1rem;
+  height: 49.5rem;
+  position: absolute;
+  left: 77.05rem;
+  top: 158.7rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-2-pwr .star-filled-long-sSp {
+  width: 9.1143rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 129.9rem;
+  top: 199.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
